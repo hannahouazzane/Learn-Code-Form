@@ -1,0 +1,43 @@
+
+.home-container {
+
+    text-align: center;
+    width: 100%;
+    margin-right:2rem;
+    margin-left:2rem;
+}
+.home-heading {
+
+    font-size: 100px;
+    color: white;
+    font-weight: bolder;
+    border-radius: 2rem;
+    margin-bottom:0;
+  
+    font-family: fantasy;
+
+}
+
+.player-container {
+    display: flex;
+    justify-content: center;
+
+  
+
+    
+}
+
+.player-one-container {
+    background-color: white;
+    flex:30% 0;
+    border: solid red;
+ 
+}
+
+.player-two-container {
+    background-color: white;
+    flex:30% 0;
+    margin-left:60px;
+
+}
+
